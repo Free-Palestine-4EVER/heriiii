@@ -1,0 +1,410 @@
+{
+  "navbar": {
+    "home": "Home",
+    "desertExperiences": "Desert Experiences",
+    "jeepTour": "Jeep Tour",
+    "camping": "Camping",
+    "hiking": "Hiking",
+    "climbing": "Climbing",
+    "scrambling": "Scrambling",
+    "aboutUs": "About Us",
+    "whoWeAre": "Who We Are",
+    "faq": "FAQ",
+    "usefulInformation": "Useful Information",
+    "contactUs": "Contact Us",
+    "whatsappUs": "WhatsApp Us"
+  },
+  "footer": {
+    "description": "Experience the magic of Wadi Rum with authentic Bedouin guides. Discover the beauty of Jordan's desert landscape.",
+    "quickLinks": "Quick Links",
+    "desertExperiences": "Desert Experiences",
+    "contactInformation": "Contact Information",
+    "allRightsReserved": "All rights reserved",
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email",
+    "hours": "Hours"
+  },
+  "home": {
+    "hero": {
+      "title": "Experience the Magic of Wadi Rum",
+      "subtitle": "Discover the breathtaking beauty of Jordan's desert landscape with authentic Bedouin guides",
+      "buttonText": "Explore Experiences"
+    },
+    "beduinExperience": {
+      "discoverText": "Discover",
+      "uniqueText": "A Unique",
+      "experienceText": "Experience",
+      "withBeduinsText": "with beduins of Wadi Rum",
+      "description": "Unleash your adventurous spirit with our thrilling jeep tours and climbing experiences, showcasing the rugged landscapes of Wadi Rum from exhilarating perspectives.",
+      "viewButton": "View adventures"
+    },
+    "experiences": {
+      "title": "Unforgettable Desert Experiences",
+      "subtitle": "Explore the stunning landscapes of Wadi Rum with our range of authentic Bedouin experiences",
+      "jeepTours": {
+        "title": "Jeep Tours",
+        "description": "Explore the vast desert landscapes and iconic rock formations with our experienced Bedouin guides."
+      },
+      "camping": {
+        "title": "Desert Camping",
+        "description": "Experience the magic of sleeping under the stars in traditional Bedouin camps with delicious local cuisine."
+      },
+      "hiking": {
+        "title": "Hiking Adventures",
+        "description": "Trek through canyons, climb sand dunes, and discover hidden gems in the Wadi Rum desert."
+      },
+      "climbing": {
+        "title": "Rock Climbing",
+        "description": "Challenge yourself with rock climbing experiences on the magnificent sandstone formations."
+      },
+      "scrambling": {
+        "title": "Scrambling",
+        "description": "Enjoy the thrill of scrambling up rock faces and exploring the unique geological features."
+      },
+      "custom": {
+        "title": "Custom Adventures",
+        "description": "Create your perfect desert experience with our customizable tour packages."
+      }
+    },
+    "about": {
+      "title": "About Wadi Rum Heritage",
+      "paragraph1": "Wadi Rum Heritage offers authentic desert experiences led by local Bedouin guides who have lived in this magnificent landscape for generations. Our team is passionate about sharing the natural beauty, rich culture, and ancient history of Wadi Rum with visitors from around the world.",
+      "paragraph2": "We pride ourselves on sustainable tourism practices that respect the delicate desert ecosystem while providing unforgettable adventures for our guests. From thrilling jeep tours to peaceful nights under the stars, we create memories that will last a lifetime.",
+      "buttonText": "Learn More About Us"
+    },
+    "whyChoose": {
+      "title": "Why Choose Wadi Rum Heritage",
+      "subtitle": "Experience the difference with our authentic Bedouin hospitality and expert local knowledge",
+      "localExpertise": {
+        "title": "Local Expertise",
+        "description": "Our guides are local Bedouins with deep knowledge of Wadi Rum's terrain, history, and culture, ensuring an authentic experience."
+      },
+      "flexibleScheduling": {
+        "title": "Flexible Scheduling",
+        "description": "We offer customizable tour durations and start times to fit your travel plans perfectly."
+      },
+      "smallGroups": {
+        "title": "Small Group Sizes",
+        "description": "We keep our groups small to ensure personalized attention and a more intimate desert experience."
+      },
+      "support": {
+        "title": "24/7 Support",
+        "description": "Our team is available around the clock to assist with any questions or special requests."
+      },
+      "equipment": {
+        "title": "Quality Equipment",
+        "description": "We provide high-quality camping gear, vehicles, and safety equipment for a comfortable adventure."
+      },
+      "safety": {
+        "title": "Safety First",
+        "description": "Your safety is our priority, with comprehensive safety protocols and experienced guides."
+      }
+    },
+    "outdoorAdventures": {
+      "title": "Discover Wadi Rum with Wadi Rum Heritage Outdoor Adventures",
+      "description": "Immerse yourself in a spectacular outdoor experience with our authentic bivouac camping, exhilarating jeep tours, and awe-inspiring climbing adventures. Enjoy the serenity of nature while creating unforgettable memories in one of the world's most captivating desert landscapes.",
+      "uniqueCamping": "Unique Camping Experiences",
+      "satisfiedAdventurers": "Satisfied Adventurers",
+      "adventuresCompleted": "Adventures Completed",
+      "scenicRoutes": "Stunning Scenic Routes"
+    },
+    "testimonials": {
+      "title": "What Our Guests Say",
+      "subtitle": "Read testimonials from travelers who have experienced the magic of Wadi Rum with us",
+      "testimonial1": {
+        "quote": "Our jeep tour with Wadi Rum Heritage was the highlight of our Jordan trip. The guides were knowledgeable and friendly, and the desert landscapes were breathtaking.",
+        "author": "Sarah Johnson",
+        "location": "United Kingdom"
+      },
+      "testimonial2": {
+        "quote": "Spending the night in the desert camp was magical. The traditional food was delicious, and sleeping under the stars was an unforgettable experience.",
+        "author": "Michael Chen",
+        "location": "Canada"
+      },
+      "testimonial3": {
+        "quote": "The hiking tour was perfectly organized. Our guide knew all the best spots and shared fascinating stories about Bedouin culture and history.",
+        "author": "Elena Kowalski",
+        "location": "Germany"
+      },
+      "readMore": "Read More Reviews"
+    },
+    "cta": {
+      "title": "Ready for Your Desert Adventure?",
+      "subtitle": "Contact us today to book your unforgettable Wadi Rum experience",
+      "contactUs": "Contact Us",
+      "whatsappUs": "WhatsApp Us"
+    }
+  },
+  "jeepTour": {
+    "hero": {
+      "title": "Jeep Tours in Wadi Rum",
+      "subtitle": "Explore the vast desert landscapes and iconic rock formations with our experienced Bedouin guides",
+      "buttonText": "Book Jeep Tour"
+    },
+    "intro": {
+      "title": "Experience the Desert by Jeep",
+      "paragraph1": "Our jeep tours offer the perfect way to explore the vast and stunning landscapes of Wadi Rum. Travel across the desert in 4x4 vehicles driven by experienced Bedouin guides who know every corner of this magnificent wilderness.",
+      "paragraph2": "Visit iconic sites including ancient rock inscriptions, natural rock bridges, towering cliffs, and hidden canyons. Our guides will share their knowledge of Bedouin culture, desert wildlife, and the rich history of this UNESCO World Heritage site.",
+      "paragraph3": "Whether you choose a few hours or a full-day tour with overnight camping, our jeep adventures provide unforgettable memories of Jordan's most spectacular desert landscape.",
+      "features": {
+        "tours": "24-hour tours",
+        "attractions": "Major attractions",
+        "groups": "Small groups",
+        "availability": "Available daily"
+      },
+      "buttonText": "View Tour Pricing"
+    },
+    "pricing": {
+      "title": "Jeep Tour Pricing",
+      "subtitle": "Choose the perfect tour package based on your group size",
+      "person1": {
+        "title": "1 Person",
+        "price": "80 JOD",
+        "duration": "24 hours"
+      },
+      "person2to4": {
+        "title": "2 to 4 Persons",
+        "price": "60 JOD",
+        "duration": "24 hours"
+      },
+      "person5to6": {
+        "title": "5 to 6 Persons",
+        "price": "55 JOD",
+        "duration": "24 hours"
+      },
+      "person7plus": {
+        "title": "7 Persons or more",
+        "price": "50 JOD",
+        "duration": "24 hours"
+      },
+      "features": ["Beduin Guide", "Bedouin tea & water", "Jeep and hikes", "All meals", "Overnight equipment"],
+      "buttonText": "Book Jeep Tour",
+      "info": {
+        "title": "Tour Information",
+        "point1": "All prices are per person and include guide, transportation, meals, and camping equipment.",
+        "point2": "Tours start and end at Wadi Rum Village or can be arranged from your accommodation.",
+        "point3": "Custom itineraries and shorter tours are available upon request.",
+        "point4": "Booking in advance is recommended, especially during peak season."
+      }
+    },
+    "experience": {
+      "title": "What You'll Experience",
+      "subtitle": "Highlights of our Wadi Rum jeep tours",
+      "rockBridges": {
+        "title": "Natural Rock Bridges",
+        "description": "Marvel at the stunning natural rock bridges formed over thousands of years, including the famous Um Fruth Rock Bridge."
+      },
+      "sandDunes": {
+        "title": "Red Sand Dunes",
+        "description": "Climb the magnificent red sand dunes for panoramic views of the desert landscape and watch the sand change colors with the shifting sunlight."
+      },
+      "petroglyphs": {
+        "title": "Ancient Petroglyphs",
+        "description": "Discover ancient rock inscriptions and petroglyphs that tell the story of early civilizations and Bedouin history in the region."
+      }
+    },
+    "cta": {
+      "title": "Ready to Book Your Jeep Tour?",
+      "subtitle": "Contact us today to reserve your spot and experience the magic of Wadi Rum",
+      "bookNow": "Book Now",
+      "whatsappUs": "WhatsApp Us"
+    }
+  },
+  "camping": {
+    "hero": {
+      "title": "Desert Camping in Wadi Rum",
+      "subtitle": "Experience the magic of sleeping under the stars in traditional Bedouin camps",
+      "buttonText": "Book Camping Experience"
+    },
+    "intro": {
+      "title": "Authentic Desert Camping",
+      "paragraph1": "Experience the true magic of Wadi Rum with our authentic Bedouin camping experiences. Spend the night under a canopy of stars in the heart of the desert, surrounded by towering sandstone mountains and vast open spaces.",
+      "paragraph2": "Our camps offer a perfect blend of traditional Bedouin hospitality and comfort. Enjoy delicious meals cooked in the traditional desert way, listen to Bedouin stories around the campfire, and wake up to a spectacular desert sunrise.",
+      "paragraph3": "Choose between our traditional Bedouin tent camp or our desert camping experience for an unforgettable night in Wadi Rum.",
+      "features": {
+        "stargazing": "Stargazing",
+        "nights": "Peaceful nights",
+        "tea": "Bedouin tea",
+        "meals": "Traditional meals"
+      },
+      "buttonText": "View Camping Options"
+    }
+  },
+  "hiking": {
+    "hero": {
+      "title": "Hike Wadi Rum",
+      "subtitle": "Explore the magnificent desert landscape on foot with our guided hiking tours",
+      "buttonText": "Book a Hike"
+    }
+  },
+  "climbing": {
+    "hero": {
+      "title": "Rock Climbing in Wadi Rum",
+      "subtitle": "Challenge yourself on the magnificent sandstone formations with our expert climbing guides",
+      "buttonText": "Explore Climbing Options"
+    }
+  },
+  "scrambling": {
+    "hero": {
+      "title": "Scrambling in Wadi Rum",
+      "subtitle": "Explore the unique geological features with exciting scrambling experiences",
+      "buttonText": "Book a Scrambling Tour"
+    }
+  },
+  "aboutUs": {
+    "whoWeAre": {
+      "hero": {
+        "title": "Who We Are",
+        "subtitle": "Meet our team of experienced Bedouin guides who will make your Wadi Rum experience unforgettable"
+      },
+      "intro": {
+        "paragraph1": "Wadi Rum Heritage was founded by local Bedouins who have lived in this magnificent desert landscape for generations. Our team grew up exploring the vast canyons, climbing the sandstone mountains, and learning the ancient ways of desert life from our elders.",
+        "paragraph2": "What began as a small family operation has grown into a respected tour company, but we've never lost our connection to our roots. We remain committed to sharing the authentic culture, traditions, and natural beauty of Wadi Rum with visitors from around the world.",
+        "paragraph3": "Our deep knowledge of the desert, passed down through generations, allows us to offer unique experiences that go beyond typical tourism. When you travel with Wadi Rum Heritage, you're not just a tourist – you're our honored guest, experiencing our homeland through the eyes of those who know and love it best."
+      },
+      "guides": {
+        "title": "Meet Our Guides",
+        "subtitle": "Our experienced Bedouin guides are passionate about sharing their heritage and knowledge",
+        "salem": {
+          "name": "Salem",
+          "description": "Salem is the proud owner of the camp and a passionate advocate for Bedouin traditions. He has dedicated his life to sharing the magic of Wadi Rum with visitors from around the world, ensuring an authentic and unforgettable experience for every guest.",
+          "specialties": "Specialties: Hospitality, cultural heritage, camp management"
+        },
+        "omar": {
+          "name": "Omar",
+          "description": "Omar is a seasoned desert guide with a deep passion for sharing the beauty and history of Wadi Rum. He has spent his life exploring the vast landscapes and is known for his engaging storytelling and warm hospitality.",
+          "specialties": "Specialties: Cultural tours, desert navigation, Bedouin traditions"
+        },
+        "alibaba": {
+          "name": "Ali-Alibaba",
+          "description": "Ali-Alibaba is a charismatic guide with years of experience leading adventure seekers through the wonders of Wadi Rum. His knowledge of desert wildlife and hidden gems makes every tour unique and unforgettable.",
+          "specialties": "Specialties: Wildlife tracking, desert survival, photography"
+        },
+        "abdullah": {
+          "name": "Abdulah (Ali's Son)",
+          "description": "Following in his father's footsteps, Abdulah has inherited a love for the desert and a wealth of traditional knowledge. He enjoys showing visitors the secrets of Wadi Rum while ensuring they have an authentic Bedouin experience.",
+          "specialties": "Specialties: Family tours, cultural heritage, camel riding"
+        },
+        "murad": {
+          "name": "Murad",
+          "description": "Murad is an expert in desert navigation and geology, making him the perfect guide for those eager to learn about the ancient landscapes of Wadi Rum. His friendly and knowledgeable approach ensures a fun and informative journey.",
+          "specialties": "Specialties: Hiking, rock formations, geology"
+        }
+      },
+      "values": {
+        "title": "Our Values",
+        "subtitle": "What drives us and shapes the experiences we create",
+        "authentic": {
+          "title": "Authentic Experiences",
+          "description": "We are committed to providing genuine Bedouin experiences that reflect our culture, traditions, and way of life. We believe in sharing the real Wadi Rum, not a commercialized version."
+        },
+        "community": {
+          "title": "Community Support",
+          "description": "We employ local Bedouins and support the local community. By choosing Wadi Rum Heritage, you're directly contributing to the sustainable development of our region."
+        },
+        "environmental": {
+          "title": "Environmental Respect",
+          "description": "We practice responsible tourism that respects and preserves the delicate desert ecosystem. We follow leave-no-trace principles and educate our guests about desert conservation."
+        }
+      },
+      "cta": {
+        "title": "Experience Wadi Rum with Us",
+        "subtitle": "Join us for an authentic desert adventure guided by local Bedouins who are passionate about sharing their heritage",
+        "contactUs": "Contact Us",
+        "whatsappUs": "WhatsApp Us"
+      }
+    },
+    "faq": {
+      "hero": {
+        "title": "Frequently Asked Questions",
+        "subtitle": "Find answers to common questions about visiting Wadi Rum"
+      }
+    },
+    "usefulInfo": {
+      "hero": {
+        "title": "Useful Information",
+        "subtitle": "Everything you need to know for your visit to Wadi Rum"
+      }
+    }
+  },
+  "contactUs": {
+    "hero": {
+      "title": "Contact Us",
+      "subtitle": "Get in touch with our team to plan your perfect Wadi Rum adventure"
+    },
+    "form": {
+      "title": "Contact us",
+      "firstName": "First & Last name",
+      "email": "Email",
+      "phone": "Phone",
+      "nationality": "Nationality",
+      "persons": "How many persons",
+      "date": "Date picker",
+      "pickDate": "Pick a date",
+      "adventures": "Choose your adventure",
+      "message": "Special request or message to the host",
+      "submit": "Submit",
+      "submitting": "Submitting...",
+      "success": "Thank you for your message! We'll get back to you soon.",
+      "error": "There was an error sending your message. Please try again."
+    },
+    "info": {
+      "title": "Contact Information",
+      "address": {
+        "title": "Address",
+        "value": "Wadi Rum Village, Jordan"
+      },
+      "phone": {
+        "title": "Phone",
+        "value": "+962 777 424 837"
+      },
+      "email": {
+        "title": "Email",
+        "value": "info@wadirumheritage.com"
+      },
+      "hours": {
+        "title": "Hours",
+        "value": "Open 24/7 for inquiries"
+      }
+    },
+    "connect": {
+      "title": "Connect With Us",
+      "whatsapp": "WhatsApp Us",
+      "facebook": "Facebook",
+      "instagram": "Instagram"
+    },
+    "map": {
+      "title": "Find Us in Wadi Rum",
+      "subtitle": "Our office is located in Wadi Rum Village, the gateway to the desert"
+    },
+    "cta": {
+      "title": "Ready to Start Your Adventure?",
+      "subtitle": "Contact us today to book your unforgettable Wadi Rum experience",
+      "button": "WhatsApp Us Now"
+    }
+  },
+  "common": {
+    "bookNow": "Book Now",
+    "learnMore": "Learn More",
+    "exploreMore": "Explore More",
+    "viewDetails": "View Details",
+    "readMore": "Read More",
+    "contactUs": "Contact Us",
+    "whatsappUs": "WhatsApp Us",
+    "adventures": [
+      { "id": "jeep-tour", "label": "Jeep tour" },
+      { "id": "camping", "label": "Camping" },
+      { "id": "scrambling", "label": "Scrambling" },
+      { "id": "hiking", "label": "Hiking" },
+      { "id": "climbing", "label": "Climbing" },
+      { "id": "camel-ride", "label": "Camel ride" }
+    ]
+  },
+  "loader": {
+    "cleaningTheSand": "Cleaning the sand...",
+    "gatheringCamels": "Gathering the camels...",
+    "preparingTea": "Preparing the tea..."
+  }
+}
+

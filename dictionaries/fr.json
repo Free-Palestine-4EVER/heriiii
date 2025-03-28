@@ -1,0 +1,973 @@
+{
+  "navbar": {
+    "home": "Accueil",
+    "desertExperiences": "Expériences Désertiques",
+    "jeepTour": "Tour en Jeep",
+    "camping": "Camping",
+    "hiking": "Randonnée",
+    "climbing": "Escalade",
+    "scrambling": "Scrambling",
+    "aboutUs": "À Propos",
+    "whoWeAre": "Qui Sommes-Nous",
+    "faq": "FAQ",
+    "usefulInformation": "Informations Utiles",
+    "contactUs": "Contactez-Nous",
+    "whatsappUs": "WhatsApp"
+  },
+  "footer": {
+    "description": "Découvrez la magie de Wadi Rum avec des guides bédouins authentiques. Explorez la beauté du paysage désertique de Jordanie.",
+    "quickLinks": "Liens Rapides",
+    "desertExperiences": "Expériences du Désert",
+    "contactInformation": "Coordonnées",
+    "allRightsReserved": "Tous droits réservés",
+    "address": "Adresse",
+    "phone": "Téléphone",
+    "email": "Email",
+    "hours": "Heures"
+  },
+  "home": {
+    "hero": {
+      "title": "Découvrez la magie de Wadi Rum",
+      "subtitle": "Explorez la beauté à couper le souffle du paysage désertique de Jordanie avec des guides bédouins authentiques"
+    },
+    "beduinExperience": {
+      "discoverText": "Découvrez",
+      "uniqueText": "Une Expérience Unique",
+      "experienceText": "avec",
+      "withBeduinsText": "les bédouins de Wadi Rum",
+      "description": "Libérez votre esprit d'aventure avec nos passionnantes excursions en jeep et nos expériences d'escalade, mettant en valeur les paysages accidentés de Wadi Rum sous des perspectives exaltantes.",
+      "viewButton": "Voir les aventures"
+    },
+    "experiences": {
+      "title": "Expériences Désertiques Inoubliables",
+      "subtitle": "Explorez les paysages époustouflants de Wadi Rum avec notre gamme d'expériences bédouines authentiques",
+      "jeepTours": {
+        "title": "Tours en Jeep",
+        "description": "Explorez les vastes paysages désertiques et les formations rocheuses emblématiques avec nos guides bédouins expérimentés."
+      },
+      "camping": {
+        "title": "Camping Désertique",
+        "description": "Vivez la magie de dormir sous les étoiles dans des camps bédouins traditionnels avec une délicieuse cuisine locale."
+      },
+      "hiking": {
+        "title": "Aventures de Randonnée",
+        "description": "Parcourez les canyons, escaladez les dunes de sable et découvrez des joyaux cachés dans le désert de Wadi Rum."
+      },
+      "climbing": {
+        "title": "Escalade",
+        "description": "Défiez-vous avec des expériences d'escalade sur les magnifiques formations de grès."
+      },
+      "scrambling": {
+        "title": "Scrambling",
+        "description": "Profitez du frisson de grimper sur des parois rocheuses et d'explorer les caractéristiques géologiques uniques."
+      },
+      "custom": {
+        "title": "Aventures Personnalisées",
+        "description": "Créez votre expérience désertique parfaite avec nos forfaits touristiques personnalisables."
+      }
+    },
+    "about": {
+      "title": "À Propos de Wadi Rum Heritage",
+      "paragraph1": "Wadi Rum Heritage propose des expériences désertiques authentiques dirigées par des guides bédouins locaux qui vivent dans ce magnifique paysage depuis des générations. Notre équipe est passionnée par le partage de la beauté naturelle, de la riche culture et de l'histoire ancienne de Wadi Rum avec des visiteurs du monde entier.",
+      "paragraph2": "Nous sommes fiers de nos pratiques de tourisme durable qui respectent l'écosystème délicat du désert tout en offrant des aventures inoubliables à nos invités. Des passionnantes excursions en jeep aux paisibles nuits sous les étoiles, nous créons des souvenirs qui dureront toute une vie.",
+      "buttonText": "En Savoir Plus Sur Nous"
+    },
+    "whyChoose": {
+      "title": "Pourquoi Choisir Wadi Rum Heritage",
+      "subtitle": "Découvrez la différence avec notre hospitalité bédouine authentique et notre expertise locale",
+      "localExpertise": {
+        "title": "Expertise Locale",
+        "description": "Nos guides sont des Bédouins locaux avec une connaissance approfondie du terrain, de l'histoire et de la culture de Wadi Rum, assurant une expérience authentique."
+      },
+      "flexibleScheduling": {
+        "title": "Horaires Flexibles",
+        "description": "Nous proposons des durées de visite et des heures de départ personnalisables pour s'adapter parfaitement à vos plans de voyage."
+      },
+      "smallGroups": {
+        "title": "Petits Groupes",
+        "description": "Nous maintenons nos groupes petits pour assurer une attention personnalisée et une expérience désertique plus intime."
+      },
+      "support": {
+        "title": "Support 24/7",
+        "description": "Notre équipe est disponible 24h/24 pour vous aider avec toutes vos questions ou demandes spéciales."
+      },
+      "equipment": {
+        "title": "Équipement de Qualité",
+        "description": "Nous fournissons du matériel de camping, des véhicules et des équipements de sécurité de haute qualité pour une aventure confortable."
+      },
+      "safety": {
+        "title": "La Sécurité d'Abord",
+        "description": "Votre sécurité est notre priorité, avec des protocoles de sécurité complets et des guides expérimentés."
+      }
+    },
+    "outdoorAdventures": {
+      "title": "Aventures en Plein Air à Wadi Rum",
+      "description": "Explorez l'un des paysages désertiques les plus spectaculaires du monde avec nos guides bédouins experts",
+      "uniqueCamping": "Sites de Camping Uniques",
+      "satisfiedAdventurers": "Aventuriers Satisfaits",
+      "adventuresCompleted": "Aventures Réalisées",
+      "scenicRoutes": "Itinéraires Panoramiques"
+    },
+    "testimonials": {
+      "title": "Ce Que Disent Nos Invités",
+      "subtitle": "Lisez les témoignages de voyageurs qui ont vécu la magie de Wadi Rum avec nous",
+      "testimonial1": {
+        "quote": "Notre tour en jeep avec Wadi Rum Heritage a été le point culminant de notre voyage en Jordanie. Les guides étaient compétents et sympathiques, et les paysages désertiques étaient à couper le souffle.",
+        "author": "Sarah Johnson",
+        "location": "Royaume-Uni"
+      },
+      "testimonial2": {
+        "quote": "Passer la nuit dans le camp du désert était magique. La nourriture traditionnelle était délicieuse, et dormir sous les étoiles était une expérience inoubliable.",
+        "author": "Michael Chen",
+        "location": "Canada"
+      },
+      "testimonial3": {
+        "quote": "La randonnée était parfaitement organisée. Notre guide connaissait tous les meilleurs endroits et a partagé des histoires fascinantes sur la culture et l'histoire bédouines.",
+        "author": "Elena Kowalski",
+        "location": "Allemagne"
+      },
+      "readMore": "Lire Plus d'Avis"
+    },
+    "cta": {
+      "title": "Prêt pour Votre Aventure Désertique?",
+      "subtitle": "Contactez-nous dès aujourd'hui pour réserver votre expérience inoubliable à Wadi Rum",
+      "contactUs": "Contactez-Nous",
+      "whatsappUs": "WhatsApp"
+    }
+  },
+  "jeepTour": {
+    "hero": {
+      "title": "Tours en Jeep à Wadi Rum",
+      "subtitle": "Explorez les vastes paysages désertiques et les formations rocheuses emblématiques avec nos guides bédouins expérimentés",
+      "buttonText": "Réserver un Tour en Jeep"
+    },
+    "intro": {
+      "title": "Découvrez le Désert en Jeep",
+      "paragraph1": "Nos tours en jeep offrent le moyen idéal d'explorer les vastes et magnifiques paysages de Wadi Rum. Traversez le désert en véhicules 4x4 conduits par des guides bédouins expérimentés qui connaissent chaque recoin de ce magnifique désert.",
+      "paragraph2": "Visitez des sites emblématiques, notamment des inscriptions rupestres anciennes, des ponts rocheux naturels, des falaises imposantes et des canyons cachés. Nos guides partageront leurs connaissances sur la culture bédouine, la faune du désert et la riche histoire de ce site classé au patrimoine mondial de l'UNESCO.",
+      "paragraph3": "Que vous choisissiez quelques heures ou une journée complète avec bivouac, nos aventures en jeep vous offriront des souvenirs inoubliables du paysage désertique le plus spectaculaire de Jordanie.",
+      "features": {
+        "tours": "Tours de 24 heures",
+        "attractions": "Attractions principales",
+        "groups": "Petits groupes",
+        "availability": "Disponible tous les jours"
+      },
+      "buttonText": "Voir les Tarifs des Tours"
+    },
+    "pricing": {
+      "title": "Tarifs des Tours en Jeep",
+      "subtitle": "Choisissez le forfait de tour parfait en fonction de la taille de votre groupe",
+      "person1": {
+        "title": "1 Personne",
+        "price": "80 JOD",
+        "duration": "24 heures"
+      },
+      "person2to4": {
+        "title": "2 à 4 Personnes",
+        "price": "60 JOD",
+        "duration": "24 heures"
+      },
+      "person5to6": {
+        "title": "5 à 6 Personnes",
+        "price": "55 JOD",
+        "duration": "24 heures"
+      },
+      "person7plus": {
+        "title": "7 Personnes ou plus",
+        "price": "50 JOD",
+        "duration": "24 heures"
+      },
+      "features": [
+        "Guide Bédouin",
+        "Thé bédouin et eau",
+        "Jeep et randonnées",
+        "Tous les repas",
+        "Équipement pour la nuit"
+      ],
+      "buttonText": "Réserver un Tour en Jeep",
+      "info": {
+        "title": "Informations sur le Tour",
+        "point1": "Tous les prix sont par personne et incluent guide, transport, repas et équipement de camping.",
+        "point2": "Les tours commencent et finissent au village de Wadi Rum ou peuvent être organisés depuis votre hébergement.",
+        "point3": "Des itinéraires personnalisés et des tours plus courts sont disponibles sur demande.",
+        "point4": "La réservation à l'avance est recommandée, surtout pendant la haute saison."
+      }
+    },
+    "experience": {
+      "title": "Ce Que Vous Allez Vivre",
+      "subtitle": "Points forts de nos tours en jeep à Wadi Rum",
+      "rockBridges": {
+        "title": "Ponts Rocheux Naturels",
+        "description": "Admirez les magnifiques ponts rocheux naturels formés au cours de milliers d'années, notamment le célèbre pont rocheux d'Um Fruth."
+      },
+      "sandDunes": {
+        "title": "Dunes de Sable Rouge",
+        "description": "Grimpez les magnifiques dunes de sable rouge pour des vues panoramiques sur le paysage désertique et regardez le sable changer de couleur avec la lumière changeante du soleil."
+      },
+      "petroglyphs": {
+        "title": "Pétroglyphes Anciens",
+        "description": "Découvrez d'anciennes inscriptions rupestres et pétroglyphes qui racontent l'histoire des premières civilisations et de l'histoire bédouine dans la région."
+      }
+    },
+    "cta": {
+      "title": "Prêt à Réserver Votre Tour en Jeep?",
+      "subtitle": "Contactez-nous aujourd'hui pour réserver votre place et découvrir la magie de Wadi Rum",
+      "bookNow": "Réserver Maintenant",
+      "whatsappUs": "WhatsApp"
+    }
+  },
+  "camping": {
+    "hero": {
+      "title": "Camping dans le Désert de Wadi Rum",
+      "subtitle": "Vivez la magie de dormir sous les étoiles dans des camps bédouins traditionnels",
+      "buttonText": "Réserver une Expérience de Camping"
+    },
+    "intro": {
+      "title": "Camping Désertique Authentique",
+      "paragraph1": "Découvrez la vraie magie de Wadi Rum avec nos expériences de camping bédouin authentiques. Passez la nuit sous un ciel étoilé au cœur du désert, entouré de montagnes de grès imposantes et de vastes espaces ouverts.",
+      "paragraph2": "Nos camps offrent un mélange parfait d'hospitalité bédouine traditionnelle et de confort. Dégustez de délicieux repas cuisinés à la façon traditionnelle du désert, écoutez des histoires bédouines autour du feu de camp, et réveillez-vous avec un lever de soleil spectaculaire sur le désert.",
+      "paragraph3": "Choisissez entre notre camp de tentes bédouines traditionnelles ou notre expérience de camping dans le désert pour une nuit inoubliable à Wadi Rum.",
+      "features": {
+        "stargazing": "Observation des étoiles",
+        "nights": "Nuits paisibles",
+        "tea": "Thé bédouin",
+        "meals": "Repas traditionnels"
+      },
+      "buttonText": "Voir les Options de Camping"
+    },
+    "options": {
+      "title": "Nos Expériences de Camping",
+      "subtitle": "Choisissez parmi nos options de camping authentiques dans le désert",
+      "traditional": {
+        "title": "Camp Bédouin Traditionnel",
+        "description": "Découvrez l'hospitalité bédouine authentique",
+        "features_intro": "Nos camps bédouins traditionnels comprennent:",
+        "feature1": "Matelas confortables avec literie propre",
+        "feature2": "Dîner et petit-déjeuner bédouins traditionnels",
+        "feature3": "Installations sanitaires partagées",
+        "feature4": "Divertissement en soirée avec musique bédouine",
+        "price": "À partir de 55 JOD par personne"
+      },
+      "desert": {
+        "title": "Expérience de Camping dans le Désert",
+        "description": "Campez sous les étoiles au cœur de Wadi Rum",
+        "features_intro": "Notre expérience de camping dans le désert comprend:",
+        "feature1": "Tentes privées avec literie confortable",
+        "feature2": "Repas bédouins authentiques cuisinés sur le feu",
+        "feature3": "Installations sanitaires propres",
+        "feature4": "Emplacement isolé spectaculaire loin des foules",
+        "price": "À partir de 65 JOD par personne"
+      },
+      "button": "Réservez Votre Expérience de Camping dans le Désert"
+    },
+    "experience": {
+      "title": "L'Expérience du Camp dans le Désert",
+      "subtitle": "Ce à quoi vous pouvez vous attendre pendant votre nuit à Wadi Rum",
+      "sunset": {
+        "title": "Vues du Coucher de Soleil",
+        "description": "Regardez le désert se transformer au coucher du soleil, peignant les montagnes de grès dans des nuances de rouge, orange et or. Nos camps sont positionnés pour offrir des vues spectaculaires sur le coucher du soleil."
+      },
+      "cuisine": {
+        "title": "Cuisine Traditionnelle",
+        "description": "Savourez la cuisine bédouine authentique, y compris le zarb (viande et légumes cuits sous terre), des salades fraîches, du houmous et du pain traditionnel cuit dans le désert."
+      },
+      "stargazing": {
+        "title": "Observation des Étoiles",
+        "description": "Découvrez le ciel nocturne du désert comme jamais auparavant. Sans pollution lumineuse, Wadi Rum offre l'une des meilleures opportunités d'observation des étoiles au monde."
+      },
+      "music": {
+        "title": "Musique Bédouine",
+        "description": "Écoutez la musique bédouine traditionnelle autour du feu de camp pendant que nos hôtes partagent des histoires et des chansons qui ont été transmises de génération en génération."
+      },
+      "tea": {
+        "title": "Thé du Désert",
+        "description": "Savourez la saveur unique du thé bédouin, préparé avec des herbes du désert et sucré avec du sucre, un symbole traditionnel d'hospitalité dans la culture bédouine."
+      },
+      "sunrise": {
+        "title": "Lever de Soleil dans le Désert",
+        "description": "Réveillez-vous avec un lever de soleil à couper le souffle, alors que la première lumière du jour illumine le vaste paysage, créant un début de journée magique."
+      }
+    },
+    "cta": {
+      "title": "Prêt pour Votre Aventure dans le Désert?",
+      "subtitle": "Réservez votre expérience de camping aujourd'hui et créez des souvenirs qui dureront toute une vie"
+    }
+  },
+  "hiking": {
+    "hero": {
+      "title": "Randonnée à Wadi Rum",
+      "subtitle": "Explorez le magnifique paysage désertique à pied avec nos visites guidées de randonnée",
+      "buttonText": "Réserver une Randonnée"
+    },
+    "intro": {
+      "paragraph1": "Randonnez dans le désert de Wadi Rum et admirez chaque détail, des nuances de couleur aux traces d'animaux laissées dans le sable. Laissez-vous guider par les meilleurs guides bédouins qui partageront avec vous tous les secrets du désert loin des foules.",
+      "paragraph2": "Si vous choisissez de faire du trekking avec nous, vous serez accompagné par un guide lors de vos promenades tandis qu'un autre transportera vos affaires, le camp et la nourriture en Jeep. Le second guide vous attendra avec votre repas prêt à chaque pause.",
+      "paragraph3": "Cette option est recommandée pour les personnes qui aiment marcher et veulent rester 2 jours ou plus dans le désert. Le temps des randonnées à Wadi Rum varie entre 3 heures et 8 heures. Tout dépend de vos souhaits et du programme établi ensemble au préalable.",
+      "paragraph4": "Si vous n'aimez pas trop marcher, vous pouvez aussi",
+      "jeepTourLink": "visiter le désert en jeep",
+      "recommendation": "Nous vous recommandons de rester 2 jours ou plus dans le désert pour profiter pleinement de l'expérience et vous immerger dans ce mode de vie unique.",
+      "buttonText": "RÉSERVER UNE RANDONNÉE"
+    },
+    "features": {
+      "duration": {
+        "title": "Durée",
+        "value": "2 à 5 jours"
+      },
+      "hikes": {
+        "title": "Randonnées",
+        "value": "3h à 8h"
+      },
+      "difficulty": {
+        "title": "Difficulté",
+        "value": "Moyenne - Difficile"
+      },
+      "groupSize": {
+        "title": "Taille du groupe",
+        "value": "2 à 8 personnes"
+      },
+      "guide": {
+        "title": "Guide",
+        "value": "2 Bédouins"
+      }
+    },
+    "pricing": {
+      "title": "PRIX POUR RANDONNER À WADI RUM",
+      "person1": {
+        "title": "1 personne",
+        "price": "100",
+        "unit": "par pers/24h"
+      },
+      "person2to4": {
+        "title": "2 à 4 personnes",
+        "price": "70",
+        "unit": "par pers/24h"
+      },
+      "person5to6": {
+        "title": "5 à 6 personnes",
+        "price": "60",
+        "unit": "par pers/24h"
+      },
+      "person7to8": {
+        "title": "7 à 8 personnes",
+        "price": "45",
+        "unit": "par pers/24h"
+      },
+      "features": {
+        "guides": "2 guides bédouins",
+        "transport": "Jeep et randonnées",
+        "meals": "Tous repas/boissons",
+        "equipment": "Équipement pour la nuit"
+      },
+      "note": "Nous pouvons vous demander de rejoindre un groupe de 2-3 personnes. Si vous êtes seul ou en couple et préférez ne pas être mélangé à un autre groupe, nous vous demanderons un petit supplément.",
+      "discount1": "Gratuit pour les enfants de moins de 5 ans",
+      "discount2": "30% de réduction pour les enfants entre 5 et 11 ans",
+      "discount3": "Réduction à partir de 5 jours et plus"
+    },
+    "experiences": {
+      "title": "Expériences de Randonnée à Wadi Rum",
+      "subtitle": "Découvrez la beauté du désert à pied avec nos guides bédouins expérimentés",
+      "dayHikes": {
+        "title": "Randonnées d'une Journée",
+        "description": "Parfait pour ceux qui veulent découvrir le désert à pied mais ont un temps limité. Nos randonnées d'une journée durent de 3 à 5 heures et vous emmènent vers certains des plus beaux endroits de Wadi Rum.",
+        "feature1": "Guidé par un Bédouin local",
+        "feature2": "Déjeuner et eau inclus",
+        "feature3": "Convient aux niveaux de forme physique modérés"
+      },
+      "multiDay": {
+        "title": "Treks de Plusieurs Jours",
+        "description": "Notre expérience recommandée - passez 2 à 5 jours à randonner dans le désert, à camper sous les étoiles et à vous immerger véritablement dans le mode de vie bédouin.",
+        "feature1": "Deux guides bédouins (un pour la randonnée, un avec support jeep)",
+        "feature2": "Tous les repas et équipement de camping inclus",
+        "feature3": "Itinéraires personnalisés selon vos intérêts et votre forme physique"
+      }
+    },
+    "cta": {
+      "title": "Prêt à Explorer Wadi Rum à Pied?",
+      "subtitle": "Contactez-nous aujourd'hui pour réserver votre aventure de randonnée dans ce magnifique paysage désertique"
+    }
+  },
+  "climbing": {
+    "hero": {
+      "title": "Escalade à Wadi Rum",
+      "subtitle": "Défiez-vous sur les magnifiques formations de grès avec nos guides d'escalade experts",
+      "buttonText": "Explorer les Options d'Escalade"
+    },
+    "intro": {
+      "title": "Aventures d'Escalade",
+      "paragraph1": "Wadi Rum offre certaines des plus spectaculaires escalades au monde. Les imposantes formations de grès offrent une expérience d'escalade unique avec des voies adaptées à tous les niveaux, des débutants aux grimpeurs expérimentés.",
+      "paragraph2": "Nos guides d'escalade expérimentés assureront votre sécurité tout en vous aidant à repousser vos limites et à profiter du frisson de l'escalade de ces magnifiques montagnes désertiques. En grimpant, vous serez récompensé par des vues à couper le souffle sur le vaste paysage désertique.",
+      "paragraph3": "Que vous cherchiez à essayer l'escalade pour la première fois ou que vous soyez un grimpeur expérimenté à la recherche de nouveaux défis, nos expériences d'escalade peuvent être adaptées à votre niveau de compétence et à vos intérêts.",
+      "features": {
+        "levels": "Différents niveaux de difficulté",
+        "duration": "Options de demi-journée à journée complète",
+        "groups": "Petits groupes",
+        "equipment": "Équipement professionnel"
+      },
+      "buttonText": "Voir les Options d'Escalade"
+    },
+    "options": {
+      "title": "Nos Expériences d'Escalade",
+      "subtitle": "Choisissez parmi notre gamme d'aventures d'escalade guidées à Wadi Rum",
+      "beginner": {
+        "title": "Expérience d'Escalade pour Débutants",
+        "description": "Introduction parfaite à l'escalade",
+        "intro": "Cette expérience adaptée aux débutants comprend:",
+        "feature1": "Instruction des techniques d'escalade de base",
+        "feature2": "Voies faciles sur des formations plus petites",
+        "feature3": "Tout l'équipement nécessaire fourni",
+        "feature4": "Session guidée de 3-4 heures",
+        "price": "À partir de 60 JOD par personne"
+      },
+      "intermediate": {
+        "title": "Aventure d'Escalade Intermédiaire",
+        "description": "Pour ceux ayant une certaine expérience en escalade",
+        "intro": "Cette expérience intermédiaire comprend:",
+        "feature1": "Voies plus difficiles",
+        "feature2": "Conseils techniques avancés",
+        "feature3": "Expérience d'escalade d'une journée complète",
+        "feature4": "Déjeuner et rafraîchissements inclus",
+        "price": "À partir de 85 JOD par personne"
+      },
+      "advanced": {
+        "title": "Escalade Multi-Pitch Avancée",
+        "description": "Pour les grimpeurs expérimentés cherchant un défi",
+        "intro": "Cette expérience d'escalade avancée comprend:",
+        "feature1": "Voies multi-pitch sur les principales formations",
+        "feature2": "Options d'une journée complète ou de plusieurs jours",
+        "feature3": "Vues spectaculaires depuis les sommets",
+        "feature4": "Guide d'escalade professionnel",
+        "price": "À partir de 120 JOD par personne"
+      },
+      "buttonText": "Réservez Votre Aventure d'Escalade"
+    },
+    "why": {
+      "title": "Pourquoi Grimper à Wadi Rum",
+      "subtitle": "Ce qui fait de Wadi Rum une destination d'escalade de classe mondiale",
+      "sandstone": {
+        "title": "Grès Unique",
+        "description": "Les formations de grès rouge de Wadi Rum offrent une expérience d'escalade unique avec une excellente friction et des caractéristiques distinctives introuvables dans d'autres destinations d'escalade."
+      },
+      "routes": {
+        "title": "Voies Diverses",
+        "description": "Des escalades à une longueur aux aventures de plusieurs jours sur de grandes parois, Wadi Rum offre une grande variété de voies pour tous les niveaux de compétence et styles d'escalade."
+      },
+      "setting": {
+        "title": "Cadre Spectaculaire",
+        "description": "Grimpez entouré de paysages désertiques à couper le souffle, avec des vues panoramiques qui font de chaque ascension une aventure mémorable."
+      }
+    },
+    "cta": {
+      "title": "Prêt à Gravir les Hauteurs de Wadi Rum?",
+      "subtitle": "Contactez-nous aujourd'hui pour réserver votre aventure d'escalade dans ce magnifique paysage désertique"
+    }
+  },
+  "scrambling": {
+    "hero": {
+      "title": "Escalade Facile à Wadi Rum",
+      "subtitle": "Explorez les caractéristiques géologiques uniques avec des expériences passionnantes d'escalade facile",
+      "buttonText": "Réserver un Tour d'Escalade Facile"
+    },
+    "intro": {
+      "paragraph1": "L'escalade facile à Wadi Rum est une expérience unique qui combine la randonnée avec un peu d'escalade facile. C'est parfait pour les voyageurs aventureux qui veulent explorer de près les formations rocheuses les plus spectaculaires du désert.",
+      "paragraph2": "Nos tours d'escalade facile vous emmènent vers des lieux emblématiques comme le pont rocheux de Jebel Burdah et le pont rocheux d'Um Fruth, où vous grimperez sur des formations rocheuses naturelles avec l'aide de guides bédouins expérimentés qui connaissent chaque prise de main et de pied.",
+      "paragraph3": "Aucun équipement d'escalade technique n'est nécessaire - juste une bonne paire de chaussures de randonnée, un esprit d'aventure et un niveau de forme physique raisonnable. Votre guide assurera toujours votre sécurité tout en vous aidant à atteindre des points de vue que peu de visiteurs ont l'occasion de découvrir.",
+      "paragraph4": "La récompense pour vos efforts? Des vues panoramiques à couper le souffle sur le paysage désertique et un sentiment d'accomplissement qui restera avec vous longtemps après votre visite à Wadi Rum.",
+      "buttonText": "RÉSERVER UN TOUR D'ESCALADE FACILE"
+    },
+    "features": {
+      "duration": {
+        "title": "Durée",
+        "value": "2 à 6 heures"
+      },
+      "difficulty": {
+        "title": "Difficulté",
+        "value": "Facile à Moyenne"
+      },
+      "groupSize": {
+        "title": "Taille du groupe",
+        "value": "1 à 6 personnes"
+      },
+      "guide": {
+        "title": "Guide",
+        "value": "1 Bédouin"
+      },
+      "photoSpots": {
+        "title": "Points photo",
+        "value": "Spectaculaires"
+      }
+    },
+    "tours": {
+      "title": "Nos Tours d'Escalade Facile",
+      "subtitle": "Choisissez parmi notre gamme d'expériences d'escalade facile guidées à Wadi Rum",
+      "jebelHash": {
+        "title": "Jebel Hash",
+        "difficulty": "FACILE",
+        "duration": "3-5 heures",
+        "price": "0 JOD",
+        "description": "Ce groupe de pics est situé dans la partie sud-est du désert de Wadi Rum. Depuis le côté est de Wadi Nughra, de nombreux chemins mènent au sommet d'où vous pouvez atteindre d'autres points élevés et profiter de vues incroyables sur une grande partie du désert et aussi sur la première rangée de montagnes en Arabie Saoudite."
+      },
+      "burdahArch": {
+        "title": "Arche de Burdah",
+        "difficulty": "MOYEN",
+        "duration": "2-3 heures",
+        "price": "40 JOD",
+        "description": "Une montagne de 3,5 km de long avec une grande arche. Cette ascension nécessite quelques compétences d'escalade car plusieurs passages sont de niveau 3 et assez vertigineux. Au sommet, la vue sur le désert est à couper le souffle. Il est possible de marcher sur l'arche elle-même, qui ne fait que 2 ou 3 mètres de large."
+      },
+      "jebelUmEddami": {
+        "title": "Jebel um e'ddami",
+        "difficulty": "FACILE/MOYEN",
+        "duration": "4-6 heures",
+        "price": "50 JOD",
+        "description": "Le plus haut sommet de Jordanie (1865 mètres). Cette montagne se trouve à la frontière de Wadi Rum, après l'extrémité sud-est du désert. C'est un assez long chemin pour atteindre le bas de la montagne et commencer l'ascension. Depuis le sommet, vous aurez une vue panoramique à 360 degrés sur le désert, les montagnes saoudiennes et, si le temps est clair, vous pouvez même voir la mer Rouge!"
+      },
+      "canyonRakabat": {
+        "title": "Canyon Rakabat",
+        "difficulty": "MOYEN",
+        "duration": "2h/2h30",
+        "price": "50 JOD",
+        "description": "Traversant Jebel Um Uishrin, ce chemin étroit commence au village de Rum et rejoint l'autre côté de la montagne, derrière une haute dune de sable (assez proche de la très célèbre Dune de Sable Rouge). L'itinéraire est exclusivement rocheux et il y a quelques moments qui seront difficiles si vous souffrez de vertige. Cette randonnée peut être faite au début de votre séjour ou avant de retourner au village."
+      },
+      "bookButton": "RÉSERVER CETTE ESCALADE FACILE"
+    },
+    "equipment": {
+      "title": "Que Faut-il Apporter",
+      "subtitle": "Articles essentiels pour votre aventure d'escalade facile",
+      "footwear": {
+        "title": "Chaussures Appropriées",
+        "description": "Des chaussures de randonnée ou des bottes robustes avec une bonne adhérence sont essentielles pour l'escalade facile. Le grès peut être glissant et des chaussures appropriées vous aideront à maintenir la traction sur les surfaces rocheuses."
+      },
+      "sunProtection": {
+        "title": "Protection Solaire",
+        "description": "Le soleil du désert peut être intense. Apportez de la crème solaire, un chapeau et des lunettes de soleil. Envisagez de porter des vêtements légers à manches longues pour une protection supplémentaire."
+      },
+      "water": {
+        "title": "Eau & Collations",
+        "description": "Restez hydraté! Apportez au moins 1,5 litre d'eau par personne pour une aventure d'escalade facile d'une demi-journée. Des collations riches en énergie vous aideront à maintenir votre force pendant l'activité."
+      }
+    },
+    "cta": {
+      "title": "Prêt pour une Aventure Désertique Passionnante?",
+      "subtitle": "Réservez votre expérience d'escalade facile aujourd'hui et découvrez les trésors cachés de Wadi Rum"
+    }
+  },
+  "aboutUs": {
+    "whoWeAre": {
+      "hero": {
+        "title": "Qui Sommes-Nous",
+        "subtitle": "Rencontrez notre équipe de guides bédouins expérimentés qui rendront votre expérience à Wadi Rum inoubliable"
+      },
+      "intro": {
+        "paragraph1": "Wadi Rum Heritage a été fondé par des Bédouins locaux qui vivent dans ce magnifique paysage désertique depuis des générations. Notre équipe a grandi en explorant les vastes canyons, en escaladant les montagnes de grès et en apprenant les anciennes façons de vivre dans le désert auprès de nos aînés.",
+        "paragraph2": "Ce qui a commencé comme une petite entreprise familiale est devenu une société de tourisme respectée, mais nous n'avons jamais perdu notre connexion avec nos racines. Nous restons engagés à partager la culture authentique, les traditions et la beauté naturelle de Wadi Rum avec les visiteurs du monde entier.",
+        "paragraph3": "Notre connaissance approfondie du désert, transmise de génération en génération, nous permet d'offrir des expériences uniques qui vont au-delà du tourisme typique. Lorsque vous voyagez avec Wadi Rum Heritage, vous n'êtes pas seulement un touriste – vous êtes notre invité d'honneur, découvrant notre terre natale à travers les yeux de ceux qui la connaissent et l'aiment le mieux."
+      },
+      "guides": {
+        "title": "Rencontrez Nos Guides",
+        "subtitle": "Nos guides bédouins expérimentés sont passionnés par le partage de leur patrimoine et de leurs connaissances",
+        "salem": {
+          "name": "Salem",
+          "description": "Salem est le fier propriétaire du camp et un défenseur passionné des traditions bédouines. Il a consacré sa vie à partager la magie de Wadi Rum avec des visiteurs du monde entier, assurant une expérience authentique et inoubliable pour chaque invité.",
+          "specialties": "Spécialités : Hospitalité, patrimoine culturel, gestion de camp"
+        },
+        "omar": {
+          "name": "Omar",
+          "description": "Omar est un guide du désert chevronné avec une passion profonde pour partager la beauté et l'histoire de Wadi Rum. Il a passé sa vie à explorer les vastes paysages et est connu pour ses récits captivants et son hospitalité chaleureuse.",
+          "specialties": "Spécialités : Visites culturelles, navigation dans le désert, traditions bédouines"
+        },
+        "alibaba": {
+          "name": "Ali-Alibaba",
+          "description": "Ali-Alibaba est un guide charismatique avec des années d'expérience dans l'accompagnement des aventuriers à travers les merveilles de Wadi Rum. Sa connaissance de la faune du désert et des joyaux cachés rend chaque visite unique et inoubliable.",
+          "specialties": "Spécialités : Suivi de la faune, survie dans le désert, photographie"
+        },
+        "abdullah": {
+          "name": "Abdulah (Fils d'Ali)",
+          "description": "Suivant les traces de son père, Abdulah a hérité d'un amour pour le désert et d'une richesse de connaissances traditionnelles. Il aime montrer aux visiteurs les secrets de Wadi Rum tout en leur assurant une expérience bédouine authentique.",
+          "specialties": "Spécialités : Visites familiales, patrimoine culturel, balade à chameau"
+        },
+        "murad": {
+          "name": "Murad",
+          "description": "Murad est un expert en navigation dans le désert et en géologie, ce qui fait de lui le guide parfait pour ceux qui sont désireux d'en apprendre davantage sur les paysages anciens de Wadi Rum. Son approche amicale et bien informée assure un voyage amusant et instructif.",
+          "specialties": "Spécialités : Randonnée, formations rocheuses, géologie"
+        }
+      },
+      "values": {
+        "title": "Nos Valeurs",
+        "subtitle": "Ce qui nous motive et façonne les expériences que nous créons",
+        "authentic": {
+          "title": "Expériences Authentiques",
+          "description": "Nous nous engageons à fournir des expériences bédouines authentiques qui reflètent notre culture, nos traditions et notre mode de vie. Nous croyons au partage du vrai Wadi Rum, pas d'une version commercialisée."
+        },
+        "community": {
+          "title": "Soutien à la Communauté",
+          "description": "Nous employons des Bédouins locaux et soutenons la communauté locale. En choisissant Wadi Rum Heritage, vous contribuez directement au développement durable de notre région."
+        },
+        "environmental": {
+          "title": "Respect de l'Environnement",
+          "description": "Nous pratiquons un tourisme responsable qui respecte et préserve l'écosystème délicat du désert. Nous suivons les principes de 'ne pas laisser de trace' et éduquons nos invités sur la conservation du désert."
+        }
+      },
+      "cta": {
+        "title": "Découvrez Wadi Rum avec Nous",
+        "subtitle": "Rejoignez-nous pour une aventure désertique authentique guidée par des Bédouins locaux passionnés par le partage de leur patrimoine",
+        "contactUs": "Contactez-Nous",
+        "whatsappUs": "WhatsApp"
+      }
+    },
+    "faq": {
+      "hero": {
+        "title": "Foire Aux Questions",
+        "subtitle": "Trouvez des réponses aux questions courantes sur la visite de Wadi Rum"
+      },
+      "questions": {
+        "bestTime": {
+          "question": "Quelle est la meilleure période pour visiter Wadi Rum?",
+          "answer": "La meilleure période pour visiter Wadi Rum est au printemps (mars à mai) et en automne (septembre à novembre) lorsque les températures sont modérées. L'été (juin à août) peut être extrêmement chaud pendant la journée, bien que les nuits soient plus fraîches. L'hiver (décembre à février) offre des températures diurnes douces mais peut être très froid la nuit, parfois en dessous de zéro."
+        },
+        "getting": {
+          "question": "Comment se rendre à Wadi Rum?",
+          "answer1": "Wadi Rum est situé à environ 60 km à l'est d'Aqaba et à 120 km au sud de Petra. Vous pouvez rejoindre Wadi Rum par:",
+          "option1": "Voiture privée ou taxi depuis Aqaba (1 heure) ou Petra (2 heures)",
+          "option2": "Minibus public depuis Aqaba ou Petra jusqu'au village de Wadi Rum",
+          "option3": "Tour organisé depuis les principales villes de Jordanie",
+          "answer2": "Nous pouvons également organiser le transport depuis votre hôtel à Aqaba ou Petra sur demande."
+        },
+        "packing": {
+          "question": "Que dois-je emporter pour un voyage dans le désert?",
+          "intro": "Nous recommandons d'apporter:",
+          "item1": "Vêtements confortables et amples",
+          "item2": "Couches pour les changements de température (surtout si vous passez la nuit)",
+          "item3": "Chaussures de marche solides ou bottes de randonnée",
+          "item4": "Protection solaire: chapeau, lunettes de soleil, crème solaire",
+          "item5": "Bouteille d'eau (nous fournissons de l'eau, mais apporter votre propre bouteille est écologique)",
+          "item6": "Appareil photo",
+          "item7": "Petit sac à dos pour les effets personnels",
+          "item8": "Vêtements chauds pour les soirées (même en été, les nuits dans le désert peuvent être fraîches)"
+        },
+        "booking": {
+          "question": "Dois-je réserver les tours à l'avance?",
+          "answer": "Oui, nous recommandons de réserver votre tour à l'avance, surtout pendant la haute saison (mars-mai et septembre-novembre). Cela garantit la disponibilité et nous permet de nous préparer correctement pour votre visite. Cependant, les réservations de dernière minute sont parfois possibles selon la disponibilité."
+        },
+        "facilities": {
+          "question": "Quelles installations sont disponibles dans les camps du désert?",
+          "intro": "Nos camps dans le désert comprennent:",
+          "item1": "Tentes bédouines traditionnelles avec matelas, couvertures et oreillers",
+          "item2": "Installations sanitaires partagées avec toilettes et parfois douches",
+          "item3": "Espace de restauration où sont servis les repas traditionnels",
+          "item4": "Espace feu de camp pour les rassemblements en soirée",
+          "conclusion": "Les camps sont basiques mais confortables, offrant une expérience désertique authentique."
+        },
+        "safety": {
+          "question": "Wadi Rum est-il sûr pour les touristes?",
+          "answer": "Oui, Wadi Rum est généralement très sûr pour les touristes. Les communautés bédouines sont connues pour leur hospitalité et prennent grand soin des visiteurs. Nos guides sont des professionnels expérimentés qui donnent la priorité à votre sécurité. Comme pour toute destination de voyage, il est toujours bon de prendre des précautions normales avec vos effets personnels."
+        },
+        "food": {
+          "question": "Quelle nourriture est servie pendant les tours?",
+          "intro": "Nous servons une cuisine bédouine traditionnelle, qui comprend généralement:",
+          "item1": "Zarb (viande et légumes cuits sous terre)",
+          "item2": "Mansaf (agneau cuit dans une sauce au yaourt avec du riz)",
+          "item3": "Maqluba (plat de riz à l'envers avec légumes et viande)",
+          "item4": "Salades fraîches, houmous et autres mezze",
+          "item5": "Thé bédouin et café arabe",
+          "dietary": "Des options végétariennes sont disponibles sur demande. Veuillez nous informer de toute restriction alimentaire lors de la réservation."
+        },
+        "charging": {
+          "question": "Puis-je charger mon téléphone/appareil photo dans le désert?",
+          "answer": "La plupart des camps ont une électricité limitée, généralement provenant de panneaux solaires ou de générateurs qui fonctionnent pendant quelques heures le soir. Nous recommandons d'apporter des appareils complètement chargés et une batterie externe pour des besoins de charge supplémentaires. Certains camps peuvent avoir des stations de charge dans les espaces communs."
+        },
+        "payment": {
+          "question": "Quelles méthodes de paiement acceptez-vous?",
+          "answer": "Nous acceptons les paiements en espèces en Dinars Jordaniens (JOD). Certains tours peuvent être payés par carte de crédit à l'avance, mais veuillez noter que dans le désert lui-même, l'espèce est le principal mode de paiement. Il n'y a pas de distributeurs automatiques dans le village de Wadi Rum, nous vous recommandons donc d'apporter suffisamment d'espèces avec vous."
+        },
+        "internet": {
+          "question": "Y a-t-il une couverture internet/mobile à Wadi Rum?",
+          "answer": "La couverture mobile à Wadi Rum est limitée et varie selon votre emplacement dans le désert. La zone du village a une couverture raisonnable, mais une fois que vous vous aventurez plus profondément dans le désert, le signal devient sporadique ou inexistant. La plupart des camps n'offrent pas de Wi-Fi. C'est une occasion parfaite de se déconnecter et de s'immerger pleinement dans l'expérience du désert."
+        }
+      }
+    },
+    "usefulInfo": {
+      "hero": {
+        "title": "Informations Utiles",
+        "subtitle": "Tout ce que vous devez savoir pour votre visite à Wadi Rum"
+      },
+      "tabs": {
+        "planning": "Planifier Votre Voyage",
+        "weather": "Météo & Climat",
+        "culture": "Culture & Coutumes",
+        "health": "Santé & Sécurité"
+      },
+      "planning": {
+        "bestTime": {
+          "title": "Meilleure Période pour Visiter",
+          "intro": "Les meilleures périodes pour visiter Wadi Rum sont:",
+          "spring": {
+            "season": "Printemps (Mars-Mai):",
+            "description": " Températures douces, fleurs sauvages occasionnelles"
+          },
+          "fall": {
+            "season": "Automne (Septembre-Novembre):",
+            "description": " Températures agréables, ciel clair"
+          },
+          "winter": {
+            "season": "Hiver (Décembre-Février):",
+            "description": " Journées fraîches, nuits froides, moins de touristes"
+          },
+          "summer": {
+            "season": "Été (Juin-Août):",
+            "description": " Journées très chaudes, nuits chaudes"
+          }
+        },
+        "duration": {
+          "title": "Durée du Séjour",
+          "intro": "Nous recommandons les durées suivantes:",
+          "halfDay": {
+            "title": "Tour d'une demi-journée:",
+            "description": " 3-4 heures, voir les principales attractions"
+          },
+          "fullDay": {
+            "title": "Tour d'une journée complète:",
+            "description": " 7-8 heures, expérience plus complète"
+          },
+          "overnight": {
+            "title": "Séjour d'une nuit:",
+            "description": " Expérience du coucher de soleil, observation des étoiles et lever de soleil"
+          },
+          "multiDay": {
+            "title": "2-3 jours:",
+            "description": " Idéal pour explorer les zones reculées et plusieurs activités"
+          }
+        },
+        "currency": {
+          "title": "Devise & Paiements",
+          "currency": "La devise en Jordanie est le Dinar Jordanien (JOD)",
+          "exchange": "1 JOD ≈ 1,41 USD (approximatif)",
+          "cash": "L'espèce est préférée à Wadi Rum",
+          "atm": "Pas de distributeurs automatiques à Wadi Rum - retirez de l'argent avant d'arriver",
+          "cards": "Cartes de crédit acceptées uniquement pour les réservations à l'avance"
+        },
+        "getting": {
+          "title": "Se Rendre à Wadi Rum",
+          "aqaba": {
+            "title": "Depuis Aqaba:",
+            "description": " 60 km (1 heure de route)"
+          },
+          "petra": {
+            "title": "Depuis Petra:",
+            "description": " 120 km (2 heures de route)"
+          },
+          "amman": {
+            "title": "Depuis Amman:",
+            "description": " 320 km (4 heures de route)"
+          },
+          "public": "Minibus publics disponibles depuis Aqaba et Petra",
+          "taxi": "Taxis privés et transferts peuvent être organisés"
+        }
+      },
+      "weather": {
+        "title": "Météo Saisonnière à Wadi Rum",
+        "description": "Wadi Rum a un climat désertique avec d'importantes variations de température entre les saisons et entre le jour et la nuit",
+        "spring": {
+          "title": "Printemps (Mars-Mai)",
+          "day": "Journée: 20-30°C (68-86°F)",
+          "night": "Nuit: 10-15°C (50-59°F)",
+          "rain": "Averses de pluie occasionnelles en mars",
+          "flowers": "Les fleurs sauvages peuvent fleurir après la pluie"
+        },
+        "summer": {
+          "title": "Été (Juin-Août)",
+          "day": "Journée: 30-40°C (86-104°F)",
+          "night": "Nuit: 20-25°C (68-77°F)",
+          "dry": "Très sec avec soleil intense",
+          "humidity": "Faible humidité rend la chaleur plus supportable"
+        },
+        "fall": {
+          "title": "Automne (Septembre-Novembre)",
+          "day": "Journée: 20-30°C (68-86°F)",
+          "night": "Nuit: 10-20°C (50-68°F)",
+          "cooling": "Températures se refroidissant progressivement",
+          "clear": "Ciel clair et excellente visibilité"
+        },
+        "winter": {
+          "title": "Hiver (Décembre-Février)",
+          "day": "Journée: 10-20°C (50-68°F)",
+          "night": "Nuit: 0-5°C (32-41°F), occasionnellement sous zéro",
+          "rain": "Possibilité de pluie et neige rare",
+          "clothing": "Vêtements chauds supplémentaires nécessaires pour les nuits"
+        },
+        "tips": {
+          "title": "Conseils Météo",
+          "sun": "Apportez toujours une protection solaire quelle que soit la saison",
+          "layers": "Emportez des couches pour les changements de température, surtout pour les séjours d'une nuit",
+          "jacket": "Apportez une veste chaude pour les soirées, même en été",
+          "water": "Restez hydraté - buvez plus d'eau que vous ne pensez avoir besoin",
+          "forecast": "Vérifiez les prévisions météo avant votre voyage"
+        }
+      },
+      "culture": {
+        "etiquette": {
+          "title": "Culture & Étiquette Bédouine",
+          "intro": "Les Bédouins sont connus pour leur hospitalité et leur mode de vie traditionnel. Lors de votre visite:",
+          "tea": "Acceptez le thé ou le café quand on vous l'offre - c'est un geste d'hospitalité",
+          "shoes": "Retirez vos chaussures avant d'entrer dans les tentes ou les espaces de repos avec tapis",
+          "photos": "Demandez la permission avant de prendre des photos des habitants",
+          "greeting": "Saluez les gens avec \"As-salamu alaykum\" (Que la paix soit sur vous)",
+          "eating": "Mangez avec votre main droite si vous dînez traditionnellement"
+        },
+        "dress": {
+          "title": "Code Vestimentaire",
+          "intro": "La Jordanie est un pays relativement libéral, mais respecter les coutumes locales est apprécié:",
+          "modest": "Habillez-vous modestement dans les lieux publics (épaules et genoux couverts)",
+          "loose": "Des vêtements légers et amples sont pratiques et respectueux",
+          "hair": "Les femmes ne sont pas obligées de se couvrir les cheveux",
+          "casual": "Une tenue plus décontractée est acceptable dans les zones touristiques et les camps",
+          "swimwear": "Les maillots de bain ne sont appropriés que dans les piscines privées ou les stations balnéaires"
+        },
+        "language": {
+          "phrases": {
+            "title": "Phrases Arabes de Base",
+            "hello": "Bonjour: Marhaba (Mar-ha-ba)",
+            "thanks": "Merci: Shukran (Shoo-kran)",
+            "yes": "Oui: Na'am (Na-am)",
+            "no": "Non: La (La)",
+            "please": "S'il vous plaît: Min fadlak (Min fad-lak)",
+            "excuse": "Excusez-moi: Afwan (Af-wan)",
+            "good": "Bon: Tayeb (Tay-eb)",
+            "water": "Eau: Ma'a (Ma-a)"
+          },
+          "tips": {
+            "title": "Conseils de Communication",
+            "english": "L'anglais est largement parlé dans les zones touristiques",
+            "guides": "De nombreux guides bédouins parlent plusieurs langues",
+            "visual": "La communication visuelle et les gestes sont utiles",
+            "learning": "Apprendre quelques phrases arabes est apprécié",
+            "mobile": "La couverture mobile est limitée dans les zones désertiques reculées",
+            "maps": "Téléchargez des cartes hors ligne avant votre voyage"
+          }
+        }
+      },
+      "health": {
+        "title": "Informations sur la Santé & la Sécurité",
+        "description": "Wadi Rum est généralement sûr, mais l'environnement désertique nécessite quelques précautions",
+        "sun": {
+          "title": "Protection Solaire",
+          "sunscreen": "Utilisez une crème solaire à indice élevé et réappliquez fréquemment",
+          "hat": "Portez un chapeau à larges bords et des lunettes de soleil",
+          "cover": "Couvrez la peau exposée pendant les heures de pointe du soleil",
+          "shade": "Cherchez l'ombre quand c'est possible",
+          "cloudy": "Le soleil du désert est intense même les jours nuageux"
+        },
+        "hydration": {
+          "title": "Hydratation",
+          "amount": "Buvez au moins 2-3 litres d'eau par jour",
+          "bottle": "Apportez une bouteille d'eau réutilisable",
+          "alcohol": "Évitez l'alcool excessif qui provoque la déshydratation",
+          "signs": "Reconnaissez les signes de déshydratation: maux de tête, vertiges",
+          "electrolytes": "Les sachets d'électrolytes peuvent être utiles"
+        },
+        "medical": {
+          "title": "Considérations Médicales",
+          "medications": "Apportez tous les médicaments personnels dont vous avez besoin",
+          "firstAid": "Emportez une trousse de premiers soins de base",
+          "facilities": "Les installations médicales sont limitées à Wadi Rum",
+          "hospitals": "Les hôpitaux les plus proches sont à Aqaba (60km)",
+          "insurance": "Une assurance voyage avec couverture d'évacuation est recommandée"
+        },
+        "safety": {
+          "title": "Sécurité Générale",
+          "guide": "Suivez toujours les instructions de votre guide",
+          "wander": "Ne vous éloignez pas seul dans le désert",
+          "footwear": "Portez des chaussures appropriées pour les activités",
+          "climbing": "Soyez prudent lorsque vous escaladez des rochers",
+          "floods": "Des crues soudaines peuvent survenir après la pluie - évitez les wadis"
+        },
+        "emergency": {
+          "title": "Informations d'Urgence",
+          "number": "Numéro d'urgence en Jordanie: 911",
+          "police": "Police: 191",
+          "ambulance": "Ambulance: 193",
+          "guide": "Enregistrez le numéro de téléphone de votre guide",
+          "maps": "Téléchargez des cartes hors ligne avec coordonnées GPS",
+          "itinerary": "Informez quelqu'un de votre itinéraire avant les voyages éloignés"
+        }
+      }
+    }
+  },
+  "contactUs": {
+    "hero": {
+      "title": "Contactez-Nous",
+      "subtitle": "Prenez contact avec notre équipe pour planifier votre parfaite aventure à Wadi Rum"
+    },
+    "form": {
+      "title": "Contactez-nous",
+      "firstName": "Prénom & Nom",
+      "email": "Email",
+      "phone": "Téléphone",
+      "nationality": "Nationalité",
+      "persons": "Combien de personnes",
+      "date": "Sélecteur de date",
+      "pickDate": "Choisir une date",
+      "adventures": "Choisissez votre aventure",
+      "message": "Demande spéciale ou message pour l'hôte",
+      "submit": "Soumettre",
+      "submitting": "Soumission en cours...",
+      "success": "Merci pour votre message ! Nous vous répondrons bientôt.",
+      "error": "Une erreur s'est produite lors de l'envoi de votre message. Veuillez réessayer."
+    },
+    "info": {
+      "title": "Informations de Contact",
+      "address": {
+        "title": "Adresse",
+        "value": "Village de Wadi Rum, Jordanie"
+      },
+      "phone": {
+        "title": "Téléphone",
+        "value": "+962 777 424 837"
+      },
+      "email": {
+        "title": "Email",
+        "value": "info@wadirumheritage.com"
+      },
+      "hours": {
+        "title": "Heures",
+        "value": "Ouvert 24/7 pour les demandes"
+      }
+    },
+    "connect": {
+      "title": "Connectez-Vous Avec Nous",
+      "whatsapp": "WhatsApp",
+      "facebook": "Facebook",
+      "instagram": "Instagram"
+    },
+    "map": {
+      "title": "Trouvez-Nous à Wadi Rum",
+      "subtitle": "Notre bureau est situé dans le village de Wadi Rum, la porte d'entrée du désert"
+    },
+    "cta": {
+      "title": "Prêt à Commencer Votre Aventure?",
+      "subtitle": "Contactez-nous aujourd'hui pour réserver votre inoubliable expérience à Wadi Rum",
+      "button": "WhatsApp Maintenant"
+    }
+  },
+  "common": {
+    "bookNow": "Réserver",
+    "learnMore": "En Savoir Plus",
+    "exploreMore": "Explorer Plus",
+    "viewDetails": "Voir les Détails",
+    "readMore": "Lire Plus",
+    "contactUs": "Contactez-Nous",
+    "whatsappUs": "WhatsApp",
+    "adventures": [
+      { "id": "jeep-tour", "label": "Tour en jeep" },
+      { "id": "camping", "label": "Camping" },
+      { "id": "scrambling", "label": "Escalade facile" },
+      { "id": "hiking", "label": "Randonnée" },
+      { "id": "climbing", "label": "Escalade" },
+      { "id": "camel-ride", "label": "Balade à chameau" }
+    ]
+  },
+  "loader": {
+    "cleaningTheSand": "Nettoyage du sable...",
+    "gatheringCamels": "Rassemblement des chameaux...",
+    "preparingTea": "Préparation du thé..."
+  }
+}
+
